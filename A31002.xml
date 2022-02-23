@@ -1,0 +1,470 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Select discourses concerning 1. councils, the Pope, schism 2. the priviledges of the isle of Great Britain 3. the Popes primacy, and the supream power of kings, both in temporals and also spirituals ... / by F. Barnes, of the Order of St. Benedict.</title>
+            <author>Barnes, John, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31002</idno>
+            <idno type="STC">Wing B866</idno>
+            <idno type="STC">ESTC R9065</idno>
+            <idno type="EEBO-CITATION">11743519</idno>
+            <idno type="OCLC">ocm 11743519</idno>
+            <idno type="VID">48525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48525)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 10:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Select discourses concerning 1. councils, the Pope, schism 2. the priviledges of the isle of Great Britain 3. the Popes primacy, and the supream power of kings, both in temporals and also spirituals ... / by F. Barnes, of the Order of St. Benedict.</title>
+                  <author>Barnes, John, d. 1661.</author>
+               </titleStmt>
+               <extent>[11], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Popes --  Temporal power.</term>
+               <term>Divine right of kings.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48525:1" rendition="simple:additions"/>
+            <pb facs="tcp:48525:1"/>
+            <p>
+               <hi>Select Diſcourſes, concerning</hi>
+               <list>
+                  <item>
+                     <hi>1.</hi> Councils, the Pope, Schiſm.</item>
+                  <item>
+                     <hi>2.</hi> The Priviledges of the Iſle of <hi>Great Britain.</hi>
+                  </item>
+                  <item>
+                     <hi>3.</hi> The Popes Primacy, and the Su<g ref="char:EOLhyphen"/>pream Power of Kings, both in Temporals, and alſo Spirituals, ac<g ref="char:EOLhyphen"/>cordingly as they put on the quali<g ref="char:EOLhyphen"/>ty of Temporals, and are means for the hindring, or procuring, the ſafe<g ref="char:EOLhyphen"/>ty of the Republick.</item>
+               </list>
+            </p>
+            <p>
+               <hi>By</hi> F. Barnes, <hi>of the Order of St.</hi> Benedict.</p>
+            <p>LONDON, <hi>Printed by</hi> R. I. <hi>1661.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:48525:2"/>
+            <pb facs="tcp:48525:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Friend,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Was put upon the in<g ref="char:EOLhyphen"/>quiry after the <hi>Ma<g ref="char:EOLhyphen"/>nuſcript</hi> of this mo<g ref="char:EOLhyphen"/>derate <hi>Romaniſt,</hi> our Coun<g ref="char:EOLhyphen"/>try-man <hi>F. Barnes,</hi> by the double<note n="*" place="margin">Poſit. 4.</note> refe<g ref="char:EOLhyphen"/>rence Dr. <hi>Baſier</hi> makes to it in his Marginal Annotations; With ſome difficulty I at laſt
+<pb facs="tcp:48525:3"/>recovered a Copy of it; the ſame, as I remember, the <hi>Do<g ref="char:EOLhyphen"/>ctour</hi> himſelf uſed at the com<g ref="char:EOLhyphen"/>poſure of his <hi>Diatribe;</hi> which then was, with much ſecrecy, conveyed from hand to hand, none of us daring to own the having it, upon apprehen<g ref="char:EOLhyphen"/>ſion of ſome queſtion, or in<g ref="char:EOLhyphen"/>convenience, from the <hi>Popes Nuncio</hi> in <hi>Paris,</hi> the Au<g ref="char:EOLhyphen"/>thour himſelf being under his <hi>Holineſſe's</hi> high diſpleaſure, and, as was ſaid, and ſtill is, in the ſevere Diſcipline of the <hi>Inquiſition</hi> for it. Though
+<pb facs="tcp:48525:3"/>I preſume they will not hold their hand from chaſtiſing him, nor with-hold a cenſure from any other of their own commu<g ref="char:EOLhyphen"/>nion; yet I ſee no reaſon why they ſhould ſo much as blame us for improving our advantage by ſuch ingenuous means, as a meer Collection of what hath paſſed the Preſs in their pub<g ref="char:EOLhyphen"/>lick Writings, which might have been made by any man that had leiſure and curioſity enough for the ſearch. Beſide, thoſe two Chapters the Doctor ſends us to, I have excerpd a
+<pb facs="tcp:48525:4"/>third, which I found ſignificant unto our purpoſe. The benefit that may arrive to you by all, is this. From the <hi>firſt</hi> a ſatisfa<g ref="char:EOLhyphen"/>ction <hi>in,</hi> or encouragement <hi>to,</hi> your Communion with that Church which ſubjects her ſelf to the ſpiritual Authority of <hi>Councils,</hi> and <hi>Biſhops,</hi> and <hi>Prieſts;</hi> thoſe <hi>Powers</hi> at firſt ordained by God, and continu<g ref="char:EOLhyphen"/>ed by a ſucceſsion, uninterrup<g ref="char:EOLhyphen"/>ted, among all regular and <hi>Catholick Chriſtians</hi> in the World. By the <hi>ſecond</hi> are aſ<g ref="char:EOLhyphen"/>ſerted to you thoſe <hi>Priviledges</hi>
+               <pb facs="tcp:48525:4"/>of the <hi>Britannick Church,</hi> ſo as you will be obliged to juſtifie her, yea though a <hi>Romaniſt,</hi> in the exemption, ſhe pretends to, from the <hi>Pope's Juriſdi<g ref="char:EOLhyphen"/>ction,</hi> with whom yet ſhe de<g ref="char:EOLhyphen"/>nies not, but that <hi>Chriſtian-Communion</hi> might be held, and, why it is not you will un<g ref="char:EOLhyphen"/>derſtand from the Confeſsions of his own party. From the <hi>third</hi> you will collect the reaſon why the <hi>Oath of Supremacy</hi> is impoſed upon you, and know your indiſpenſable obligation to it; no ſpiritual perſon upon
+<pb facs="tcp:48525:5"/>earth, having power to abſolve you from it.</p>
+            <p>My indeavours were not wanting, though ſucceſſeleſs, on the other ſide, to get a Tran<g ref="char:EOLhyphen"/>ſcript of that Chapter in <hi>Mr. Juſtell's</hi> work, of which the <hi>Doctour</hi> had great expecta<g ref="char:EOLhyphen"/>tion, as you may read in my Let<g ref="char:EOLhyphen"/>ter, which I communicated, that you might know the firſt occaſion given of his writing the <hi>Diatribe,</hi> touching the <hi>Li<g ref="char:EOLhyphen"/>berty of our Church.</hi> The Reverend perſon, who was pleaſed to take the trouble of it,
+<pb facs="tcp:48525:5"/>a long time cheriſhed my hopes, relying upon his own intereſt <hi>in,</hi> and ſome promiſe, I think, <hi>from, Mr. Juſtell</hi>'s Son, who is poſſeſſed of the Books and Papers his Father writ, and, ſome ſay, of the learned abili<g ref="char:EOLhyphen"/>ties by which he did. At length I was remitted to the Book it ſelf, ſaid to be in the Preſs, from which the ſheets that were for my purpoſe could not be ſpared. Whether that re<g ref="char:EOLhyphen"/>ference were a miſtake or de<g ref="char:EOLhyphen"/>luſion, I cannot tell, nor ſhall make my ſelf ſo much concer<g ref="char:EOLhyphen"/>ned
+<pb facs="tcp:48525:6"/>in it, as to inquire, being more certainly now inform'd, that the foreſaid Book is ſome enlargement upon the <hi>Coun<g ref="char:EOLhyphen"/>cils Mr. Chr. Juſtell</hi> long ſince publiſhed, and that hee hath left his <hi>Geographia Sa<g ref="char:EOLhyphen"/>cro-Politica,</hi> not half finiſhed, which, ſo imperfect, the lear<g ref="char:EOLhyphen"/>ned Gentleman, his Son, thinks not fit to print; ſo that I beleeve wee are to hope for lit<g ref="char:EOLhyphen"/>tle help from that hand. If what you here have, be not ſuf<g ref="char:EOLhyphen"/>ficient, God be thanked, the <hi>Church of England</hi> wants not
+<pb facs="tcp:48525:6"/>men highly qualified to accom<g ref="char:EOLhyphen"/>pliſh what ere it was <hi>Mr. Ju<g ref="char:EOLhyphen"/>ſtell</hi> deſigned in her behalf; from whom it may be lookt for, when they ſee cauſe to intend it. In the mean time accept with gratitude what is already done, and be inſtructed by it. <hi>a Dieu</hi>
+            </p>
+            <closer>
+               <signed>Yours <hi>RI. WATSON.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="chapter">
+               <pb facs="tcp:48525:7"/>
+               <pb n="1" facs="tcp:48525:7"/>
+               <head>
+                  <hi>CHAP. I. Concerning</hi> Councils, the Pope, Schiſm.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>EE muſt obey and ſubmit our ſelves to Powers or<g ref="char:EOLhyphen"/>dained by God for the Government of his Church, ſuch as are Councils, <hi rend="sup">a</hi> 
+                  <hi>Biſhops, Prieſts,</hi> to all which obedience preſcribed by Canons is to be given; ſo that wee may not gain-ſay their decrees, [or opinions] canonically delivered; for <hi>hee receiveth damnation to himſelf, whoſo<g ref="char:EOLhyphen"/>ever reſiſteth the Ordinance of God, Roman.</hi> 13. And as in the Republick it is Rebel<g ref="char:EOLhyphen"/>lion, to oppoſe the command of the Ci<g ref="char:EOLhyphen"/>vil Magiſtrate, therefore, becauſe he is obnoxious to errour: ſo is it not void of Schiſm in the Church, to withdraw from the Eccleſiaſtical Magiſtrate under
+<pb n="2" facs="tcp:48525:8"/>a pretence of errour, <hi rend="sup">b</hi> actual, or poſ<g ref="char:EOLhyphen"/>ſible, it being not clearly proved in a le<g ref="char:EOLhyphen"/>gitimate ſenſe. Be it therefore, that onely the written Word of God is, of neceſſity, infallible, and that Biſhops and Councils may erre; yet until their errour may be convinced in judgement, they muſt be obeyed, for avoiding of Schiſm, no leſs than the Civil Magi<g ref="char:EOLhyphen"/>ſtrate unconvicted of errour; yea obe<g ref="char:EOLhyphen"/>dience is yeelded him while hee errs. Now of Catholick Tribunals a Coun<g ref="char:EOLhyphen"/>cil is ſupream, unto which the Pope, all Biſhops, and, beſide them, all faithful people are obliged to reſign themſelves in things ſpiritual; yea, if the Pope ſhould pertinaciouſly withſtand a decree of Faith in an <hi>Oecumenick</hi> Council, hee would be preſumed an Heretick, and ſeparation from him, as from an Heretick, may be made, without the character of Schiſm, by denying him obedience, fel<g ref="char:EOLhyphen"/>lowſhip and communion, eſpecially after the declaration of the Church, according to preſcript and Rule of the Canons.</p>
+               <div type="part">
+                  <pb n="3" facs="tcp:48525:8"/>
+                  <head>Paralipomena.</head>
+                  <p>
+                     <hi rend="sup">a</hi> SEE my Tractate concerning the <hi>Su<g ref="char:EOLhyphen"/>premacy of Councils,</hi> wherein I have proved out of the Scriptures, and per<g ref="char:EOLhyphen"/>petual practice of the Church, <hi>that Popes are ſubject to the Canons;</hi> That the Dea<g ref="char:EOLhyphen"/>cons of <hi>Rome,</hi> preferring themſelves be<g ref="char:EOLhyphen"/>fore Prieſts, againſt the eighteenth Ca<g ref="char:EOLhyphen"/>non of the <hi>Council of Nice,</hi> the Pope ſee<g ref="char:EOLhyphen"/>ing and conſenting, St. <hi>Hierom Epiſt.</hi> 85. <hi>ad Evagr.</hi> calls <hi>men without ſenſe or rea<g ref="char:EOLhyphen"/>ſon. Why</hi> (ſaith hee) <hi>do yee alledge to mee the cuſtome of one City? why vindicate you a ſmall number, of which this pride is ſprung againſt the Laws of the Church? Auguſtin</hi> in <hi>Q. Vet. &amp; Nov. Teſt. q.</hi> 10. ſtyles the ſame Deacons <hi>ſomewhat immo<g ref="char:EOLhyphen"/>deſt, in that they live neither by Law, Cu<g ref="char:EOLhyphen"/>stome, nor Example; but, becauſe they are Miniſters of the Roman Church, think themſelves more venerable than any o<g ref="char:EOLhyphen"/>ther.</hi>
+                  </p>
+                  <p>In the ſecond <hi>Synod, Flavianus</hi> being excommunicated by the Biſhop of
+<pb n="4" facs="tcp:48525:9"/>
+                     <hi>Rome</hi> (as the<note n="a" place="margin">Lib. <hi>10.</hi> cap. <hi>10.</hi>
+                     </note> 
+                     <hi>Tripartite hiſtory</hi> ſhews) is reſtored againſt his will by the firſt <hi>Synod,</hi> as ap<g ref="char:EOLhyphen"/>pears by a Synodal E<g ref="char:EOLhyphen"/>piſtle in<note n="b" place="margin">Lib. <hi>5.</hi> cap. <hi>9.</hi>
+                     </note> 
+                     <hi>Theodoret,</hi> accor<g ref="char:EOLhyphen"/>ding to the Preſcript of the <hi>Nicene</hi> Law and Deciſion, as the Canon requires.</p>
+                  <p>In the third general <hi>Synod</hi> (notwith<g ref="char:EOLhyphen"/>ſtanding the<note n="c" place="margin">
+                        <hi>18</hi> Num. in Edit. <hi>6.55.</hi>
+                     </note> Epiſtle of <hi>Innocent</hi> the firſt to <hi>A<g ref="char:EOLhyphen"/>lexander,</hi> wherein he de<g ref="char:EOLhyphen"/>clares, that the <hi>Cyprians are not wiſe ac<g ref="char:EOLhyphen"/>cording to the Faith, unleſs they ſubject themſelves to the Patriarch of Antioch</hi>) it was decreed, that what the Patriarch of <hi>Antioch</hi> attempted, was <hi>praeter-cano<g ref="char:EOLhyphen"/>nical,</hi> and therefore the Holy and Uni<g ref="char:EOLhyphen"/>verſal Synod declares, that all Letters brought by him againſt the Cyprians, were void. So in the 178 Canon <hi>of the Code of the Univerſal Church.</hi>
+                  </p>
+                  <p>
+                     <note n="d" place="margin">Et Tom. <hi>2.</hi> E<g ref="char:EOLhyphen"/>pheſin. Append. <hi>1.</hi> cap <hi>4.</hi>
+                     </note>In the <hi>Council</hi> of <hi>Chalcedon,</hi> Act. 18. the Legats of <hi>Leo</hi> the firſt contradicted the Privi<g ref="char:EOLhyphen"/>ledges of the <hi>Conſtantinopolitan Patriarch;</hi>
+                     <pb n="5" facs="tcp:48525:9"/>but, becauſe they were according to the Canon of the fifty Holy Fathers aſſem<g ref="char:EOLhyphen"/>bled at <hi>Conſtantinople, Leo</hi> 1. withſtand<g ref="char:EOLhyphen"/>ing, it was Synodically defined for the <hi>Patriarch of Conſtantinople.</hi>
+                  </p>
+                  <p>Theſe out of the Acts of the four ge<g ref="char:EOLhyphen"/>neral Councils, which<note n="a" place="margin">Can. ſicut. Diſt. <hi>16.</hi>
+                     </note> 
+                     <hi>Gregory</hi> receives as the four Books of the Holy Evangel. yea (as Cardinal <hi>Deus-dedit</hi> [<hi>i. e.</hi> God-gave] obſerveth in his Col<g ref="char:EOLhyphen"/>lection of Canons) there was an ancient form of the Popes Oath, which is yet extant,<note n="b" place="margin">Can. ſicut. Diſt. <hi>16.</hi>
+                     </note> wherein hee ſweareth, <hi>that he will ob<g ref="char:EOLhyphen"/>ſerve the four Councils to a title;</hi> out of which the moſt learned<note n="c" place="margin">In Conſult. Ve<g ref="char:EOLhyphen"/>net.</note> 
+                     <hi>Leſchaſſeri<g ref="char:EOLhyphen"/>us</hi> wittily infers, <hi>That the Pope of Rome cannot by right contend that hee is above thoſe Canons of the Councils, unleſs hee arrogate to himſelf a power a<g ref="char:EOLhyphen"/>bove the four Evangels.</hi>
+                  </p>
+                  <p>Agreeable to this oath of the Pope is the ancient Profeſſion of<note n="d" place="margin">Can. Cont. Sta<g ref="char:EOLhyphen"/>tut. <hi>5.</hi> q. <hi>5.</hi>
+                     </note> Pope <hi>Zozimus. The
+<pb n="6" facs="tcp:48525:10"/>Authority of this See cannot ordain, or change, any thing againſt the decrees of the Fathers.</hi> And<note n="e" place="margin">Ibidem Canon. ſunt quidam.</note> Pope <hi>Ur<g ref="char:EOLhyphen"/>ban. Where the Holy Fa<g ref="char:EOLhyphen"/>thers have judicially defi<g ref="char:EOLhyphen"/>ned any thing, there the Pope of Rome ought not to give a new Law, but to the hazard of life and blood, confirm rather what is publiſhed.</hi> The<note n="f" place="margin">Can. <hi>8.</hi>
+                     </note> 
+                     <hi>E<g ref="char:EOLhyphen"/>pheſine Council</hi> expreſly orders, <hi>that every ſingle Church of the Provinces, ſhould have its rights preſerved.</hi> Hence ariſe the Appeals <hi>ab abuſu,</hi> and exceptions againſt the new Oecumenical commands. So the <hi>Gallick</hi> Biſhops, un<g ref="char:EOLhyphen"/>der <hi>Ludovicus Pius,</hi> except formally in theſe words againſt certain new Laws, <hi>That they will obey them, unleſs the Autho<g ref="char:EOLhyphen"/>rity of the ancient Canons order otherwiſe.</hi> And<note n="g" place="margin">Tract. de Libert. Eccleſ.</note> 
+                     <hi>Leſchaſſerius</hi> hath another honeſt note con<g ref="char:EOLhyphen"/>cerning the <hi>Gallick</hi> Na<g ref="char:EOLhyphen"/>tion; That it was the uſual manner of the Gallick Church to profeſs, <hi>That ſhee acknowledged not the Pope of Rome, but legitimately and canonically.</hi> Which
+<pb n="7" facs="tcp:48525:10"/>is the reſtriction of the Univerſal Church, as hee there learnedly proveth. Hence the <hi>African</hi> Fa<g ref="char:EOLhyphen"/>thers, in a<note n="h" place="margin">Cap. <hi>105.</hi>
+                     </note> 
+                     <hi>Synod</hi> under <hi>Boniface,</hi> and <hi>Coeleſtine,</hi> refuſe to obey the commands of thoſe Popes, becauſe they found it ordained by no <hi>Synod</hi> of the Fathers, that any ſuch thing ſhould bee done. And, that I may paſs by <hi>Hinc<g ref="char:EOLhyphen"/>marus</hi> in<note n="i" place="margin">Tom. <hi>10.</hi> Anno <hi>878.</hi> num. <hi>30.</hi>
+                     </note> 
+                     <hi>Baronius,</hi> who ſaith, <hi>Hee receives the de<g ref="char:EOLhyphen"/>crees of the Popes approved by Holy Councils,</hi> and <hi>Gerbertus</hi> (after<g ref="char:EOLhyphen"/>ward called<note n="a" place="margin">Eod. Tom. Anno <hi>992.</hi> N. <hi>42.</hi>
+                     </note> 
+                     <hi>Sylveſter</hi> the ſecond) accepting the decrees of the Apoſtoli<g ref="char:EOLhyphen"/>cal See, with this clauſe, <hi>ſo they bee not diſſonant from theſe Canons;</hi> Illuſtrious was the teſtimony of St. <hi>Ignatius</hi> the <hi>Conſtantinopolitan;</hi> and ſo of the whole Church approving his fact even to this day, in<note n="b" place="margin">Tom. <hi>10.</hi> Anno <hi>818.</hi> N. <hi>48.</hi>
+                     </note> 
+                     <hi>Ba<g ref="char:EOLhyphen"/>ronius;</hi> For he paſſed by with a deaf ear, the Pope excommuni<g ref="char:EOLhyphen"/>cating him, unleſs within thirty daies he recalled his Prieſts out of <hi>Bulgaria.</hi> And
+<pb n="8" facs="tcp:48525:11"/>
+                     <hi>Baronius</hi> doth not think <hi>Ignatius</hi> excom<g ref="char:EOLhyphen"/>municate, for that command not fulfil<g ref="char:EOLhyphen"/>led, becauſe hee defended the right of his Church, as hee was bound by oath, on the hazard of life eternal. Therefore of greater authority is a Canon granting priviledge to the Church of <hi>Conſtanti<g ref="char:EOLhyphen"/>nople,</hi> than a command of the Pope, even <hi>Baronius</hi> being Judge.</p>
+                  <p>See the very learned Collections of <hi>Vigorius</hi> Comment. in <hi>Reipub. Synodal. p.</hi> 26, 46, 22.</p>
+                  <p>And becauſe <hi>Hincmarus</hi> a moſt con<g ref="char:EOLhyphen"/>ſtant Defender of the Canons, is bitter<g ref="char:EOLhyphen"/>ly taxed by <hi>Baronius, Dunallius,</hi> and ma<g ref="char:EOLhyphen"/>ny more Neotericks, I would have the Reader take notice, that hee is praiſed by<note n="c" place="margin">Ad An. <hi>109.</hi> N. <hi>42.</hi>
+                     </note> 
+                     <hi>Baronius, Tom.</hi> 2. as a man very famous for learning and piety.</p>
+                  <p>Look <hi>Caſſand. lib. De Officio pii viri. They which make the Pope of Rome little leſs than God, and exalt his authority not onely above the whole Church, but above the Divine Scripture it ſelf, and conſtitute his decree, equal to the Divine Oracles; yea,
+<pb n="9" facs="tcp:48525:11"/>the infallible Rule of Faith; I ſee no rea<g ref="char:EOLhyphen"/>ſon why you may not call them Pſeudo-Ca<g ref="char:EOLhyphen"/>tholicks and Papiſts.</hi>
+                  </p>
+                  <p>
+                     <hi rend="sup">b</hi> That the withdrawing from the Eccleſiaſtical Magiſtracy of the <hi>Roman</hi> Church, is deſervedly reputed Schiſma<g ref="char:EOLhyphen"/>tical, I will confirm by the teſtimonies of <hi>Caſſander,</hi> and the <hi>Arch-Biſhop</hi> of <hi>Spa<g ref="char:EOLhyphen"/>lato,</hi> yet writing in <hi>England;</hi> which may ſeem to ariſe rather from the deſert of the thing, than their blind affection to<g ref="char:EOLhyphen"/>ward the <hi>Roman</hi> Church.</p>
+                  <p>
+                     <hi>Caſſander</hi> ſaith thus, in <hi>Tract. De Of<g ref="char:EOLhyphen"/>ficio pii viri. Very many of them who have aſſumed their name from the Evangel, deſpiſe utterly that party which hath retain<g ref="char:EOLhyphen"/>ed the ancient name of Catholicks, and the Roman Church, and fly off from all com<g ref="char:EOLhyphen"/>munion with it; nor do they account it a member of the ſame body, but abominate it as the very body of Satan and Antichriſt. This I know truly, and lament, and do not ſee how they that are ſuch, can be exempted from the imputation of Schiſm.</hi> And hee obſerveth, that <hi>Luther</hi> himſelf at firſt confeſſed as much; yea, and afterward,
+<pb n="10" facs="tcp:48525:12"/>when made more fierce by the <hi>Popes Bull,</hi> hee did not deny, that the <hi>Roman</hi> Church, wherein the <hi>Roman</hi> Pontifie ſwayed, was the true Church of Chriſt, although hee proclaimed the Gover<g ref="char:EOLhyphen"/>nours of it, as the <hi>Pope, Cardinals, &amp;c.</hi> not Members, but Tyrants and Enemies of the Church. For be it, that the Pope is the Antichriſt, who, <hi>Paul</hi> teacheth, <hi>is to ſit in the true Temple, and true Church of God;</hi> yet wee muſt abide in the true Church, that the evil Paſtour may be caſt out of it; for by our departure from the Church, hee ſhall not the ſooner be put out of doors. Beſide, know, That it is one thing to recede from commu<g ref="char:EOLhyphen"/>nion with the Pope, another, from com<g ref="char:EOLhyphen"/>munion with the Church: for in caſe of Hereſie declared, the Canons perſwade, and command, both to adhere to her Canons, and to ſeparate ones-ſelf from e<g ref="char:EOLhyphen"/>very Biſhop that teacheth amiſs. To this purpoſe may be read the Canons of the Univerſal Church; the third Canon of the <hi>Epheſine Council. Wee command thoſe Clerks, who either have, or do, diſunite, by
+<pb n="11" facs="tcp:48525:12"/>no means to obey their Biſhops,</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>nor at all, in any manner, to bee ſubject unto them.</hi> And <hi>Can.</hi> 1. <hi>A Metropolitane, being an Here<g ref="char:EOLhyphen"/>tick, can do nothing againſt the Biſhops of his Province.</hi> And <hi>Synod. Conſtant.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Can.</hi> 13. <hi>They that ſeparate them<g ref="char:EOLhyphen"/>ſelves from communion with their Prelate, being condemned for Hereſie by the Holy Fathers, or Synods,</hi> that is, <hi>hee preaching Hereſie publickly, they ſhall not onely not be ſubject to Canonical puniſhment, before a hearing in the Synod, having ſeparated themſelves from communion with him, who is called their Biſhop; but ſhall be accounted worthy of the honour meet for Orthodox perſons; for they have not condemned their Biſhops, but their Pſeudo-Epiſcopal teachers; nor have they rent by Schiſm the union of the Church; but have endeavoured to free the Church from Schiſms and Diviſions.</hi> The ſame ſpeaks the ſingle Canon of the <hi>Carthaginian Synod</hi> under <hi>Cyprian,</hi> which is extant in <hi>Balſamon</hi> and <hi>Zonaras,</hi> joyned to the <hi>Synod of Carthage. Videatur Ca<g ref="char:EOLhyphen"/>non</hi> 6. <hi>&amp;</hi> 9, 32, 33. <hi>Laodicenus, &amp;</hi> 9.
+<pb n="12" facs="tcp:48525:13"/>
+                     <hi>Canon P. Timothei Alexandrini.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. 2.</hi> Concerning the Priviledges <hi>OF THE</hi> Iſle of Great Britain.</head>
+               <p>WHat ſome have writ, is truly to be lamented, <hi>That the Kings of Great Britain are Feudataries of the See Apoſtolick, and conſequently ſubject to the Holy Pope</hi> (as Monarch independent on the Canons) <hi>as well in Temporals, as Spi<g ref="char:EOLhyphen"/>rituals;</hi> whereby they have too much exaſperated them, and alienated them from their Obedience to His Holineſs, and <hi>Roman</hi>-Catholick Communion. It were here to be wiſhed, that the Holy Pope would yeeld ſomewhat to the publick peace and ſafety of <hi>Great Britain,</hi> and be content that the moſt Serene King and Kingdome of <hi>Great Britain,</hi> might be admitted to the Communion
+<pb n="13" facs="tcp:48525:13"/>of the Holy <hi>Roman</hi> Church, without a<g ref="char:EOLhyphen"/>ny actual dependance on the Sovereign<g ref="char:EOLhyphen"/>ty of the Holy Pope, until, at leaſt, in a full and free Council, a remedy might be gotten for this miſ-fortune. Now I ſhall aſſign a threefold Theological Foundation, out of which (with ſub<g ref="char:EOLhyphen"/>miſſion to better judgement) appears, that ſuch a Council is probable, and con<g ref="char:EOLhyphen"/>venient to be aſſembled.</p>
+               <p>
+                  <hi>(A)</hi> The firſt is a grievous fear, which the wiſer Politicians conceive, as affairs ſtand in <hi>Britain,</hi> from an actual ſubjection to be yeelded to the See Apoſtolick; and truly who would not fear to be ſubject unto him, that, if you diſpleaſe him, can, in a little half hours ſpace, take a<g ref="char:EOLhyphen"/>way Kingdome, and Life, and Reputa<g ref="char:EOLhyphen"/>tion, and is able to arm his Catholick Subjects againſt him? The ſecond foun<g ref="char:EOLhyphen"/>dation is, becauſe adhering to the de<g ref="char:EOLhyphen"/>crees of the <hi>Councils</hi> of <hi>Conſtance,</hi> and <hi>Baſil,</hi> which have declared them to bee accounted Hereticks, who maintain, <hi>(B) That the Pope is not ſubject to General Councils;</hi> it ſeems in practice, the modern
+<pb n="14" facs="tcp:48525:14"/>Popes are to be accounted (C) Hereticks, eſpecially ſince they pertinaciouſly de<g ref="char:EOLhyphen"/>fend the Hereſie which the ſaid Fathers condemned, by cenſures of the <hi>Bull in Coena.</hi> Which I ſpeak not to raiſe a controverſie againſt His Holineſs, but humbly to inſinuate a probable founda<g ref="char:EOLhyphen"/>tion of pacifying ſo illuſtrious a King<g ref="char:EOLhyphen"/>dome, and aggregating it to the Catho<g ref="char:EOLhyphen"/>lick Church. The third is, becauſe by the <hi>Epheſine</hi> Canon the ancient privi<g ref="char:EOLhyphen"/>ledges of Churches ought to be conſer<g ref="char:EOLhyphen"/>ved, yea, if raviſhed away by force, to be recovered. Now the <hi>Iſle of Britain,</hi> in times paſt, hath enjoyed the <hi>Cyprian</hi> priviledge, that it ſhould be ſubject to the Law of no <hi>(D) Patriarch;</hi> &amp; although this priviledge was heretofore aboliſhed by the tumults and violence of wars; yet, whereas in the time of <hi>Henry</hi> the eighth, it hath been recalled by the conſent of the whole Kingdome, and ſince that time peaceably preſcribed, it ſeems that, for peace-ſake, it ought to be retained, without the loſs of Catholiciſm, or the brand of any Schiſm, ſo that in other
+<pb n="15" facs="tcp:48525:14"/>things the Kingdome conform it ſelf to the Univerſal Canons and Cuſtomes of the Catholick Church. Theſe things I humbly ſuggeſt to His Holineſs, ready to bee corrected by Him, if in any parti<g ref="char:EOLhyphen"/>cular I have erred from the truth.</p>
+               <div type="part">
+                  <head>Paralipomena.</head>
+                  <p>
+                     <hi>(A)</hi> SEarch the reſolution of the<note n="a" place="margin">Bochel. in Decret. dict. <hi>1.</hi> Gal. l. <hi>5.</hi> Tit. <hi>5.</hi> Cap. <hi>5.</hi> ſſ. <hi>3.</hi>
+                     </note> 
+                     <hi>Galli<g ref="char:EOLhyphen"/>can</hi> Church in the <hi>Council</hi> of <hi>Tours,</hi> 1510. under <hi>Lewis</hi> 12. where the queſtion is put, <hi>Whe<g ref="char:EOLhyphen"/>ther, for notorious hatred, and unjuſt aſſault, it be lawful for a Prince to withdraw him<g ref="char:EOLhyphen"/>ſelf from the obedience of the Pope, atten<g ref="char:EOLhyphen"/>ding ſo long, until the Pope have ſtirred up other Princes and Communities, yea, and hath attempted to compel them to invade the Countries and Dominions of the ſaid Prince.</hi> It was concluded by the Coun<g ref="char:EOLhyphen"/>cil, <hi>That the Prince may ſubſtract himſelf from the obedience of ſuch a Pope, and with<g ref="char:EOLhyphen"/>draw for the maintenance and defence only of his temporal rights.</hi> And <hi>Gerſon</hi>
+                     <pb n="16" facs="tcp:48525:15"/>
+                     <note n="b" place="margin">Tract. de Aufe<g ref="char:EOLhyphen"/>ribilitate Papae ab Eccleſia; Conſid. <hi>14.</hi>
+                     </note> excellently. <hi>If there be any one who would convert his Preſidence, and Papal dignity into an inſtrument of wickedneſs, and destruction of ſome part of the Church, in Temporals, or Spirituals, and that there appear no other ſufficient re<g ref="char:EOLhyphen"/>medy, but by withdrawing himſelf from ſuch a raging and ſelf-abuſing Pope; and this for a time, until the Church or a Council ſhall provide; This ſhall be law<g ref="char:EOLhyphen"/>ful, yet ſo, as that a certain pious neceſsity urgeth to do it.</hi> The ſame hee aſſerteth in the queſtion, <hi>Whether in controverſies of Faith it be lawful to appeal from the Pope?</hi> where hee ſaith, <hi>The like ſubstractions were approved by the holy Council of</hi> Con<g ref="char:EOLhyphen"/>ſtance, <hi>and that ſo was practiſed in the council of Piſa,</hi> from which the<note n="c" place="margin">In Ep. apud Nyem. lib. <hi>3.</hi> c. <hi>34.</hi>
+                     </note> 
+                     <hi>Cardinal</hi> of <hi>Liege</hi> writing, ſaith, that <hi>what was juſt before affirmed by</hi> Gerſon, <hi>is moſt aſſured;</hi> and alledgeth for himſelf <hi>Augu<g ref="char:EOLhyphen"/>ſtin, Ambroſe, Bede,</hi> and others. And <hi>Gerſon</hi> ſaith, that this Propoſition of <hi>Petrus de Luna, That it is never lawful to
+<pb n="17" facs="tcp:48525:15"/>make a ſubſtraction from the true Pope, was reputed Heretical in the Council of</hi> Con<g ref="char:EOLhyphen"/>ſtance. Now, whether the cauſes of ſub<g ref="char:EOLhyphen"/>ſtraction, in the Kingdome of <hi>Great Bri<g ref="char:EOLhyphen"/>tain,</hi> are ſufficient, is not a matter of Faith, but Fact, wherein wee muſt ſtand to the reaſons and authority of the more wiſe and skilful perſons. For the Pre<g ref="char:EOLhyphen"/>lates of the Church, when the queſtion is concerning the admiſſion of penitents to the Communion and Sacraments of the Church, ought not, eſpecially in matters of fact, to be ſo tenacious of their own opinion. Let them beware lightly to condemn of mortal ſin, when as in the practick, for a ſtrong reaſon or authority, the opinion of the penitent might be probable. Unto which, the practick being laid down, by reaſon of ſome circumſtance, or the poſſeſſion of ſome other, Confeſſours ought to con<g ref="char:EOLhyphen"/>form themſelves in their own opinion. For ſurely they are not alwaies obliged to follow the ſafer opinion, if it bee the more rigid; if they follow one that is ſafe, it is enough; but if the opinion of
+<pb n="18" facs="tcp:48525:16"/>the Penitent be not accounted very ſafe, let Confeſſours conſider whether they may leave him in ignorance, with diſ<g ref="char:EOLhyphen"/>charge of their truſt. <hi>In doubtful caſes, Confeſſours ought to follow the more fa<g ref="char:EOLhyphen"/>vourable opinion, for their penitents ſake.</hi>
+                     <note n="a" place="margin">In Sum. De Sacr. poenit. ca. <hi>26.</hi> num. <hi>8.</hi>
+                     </note> So <hi>Hen<g ref="char:EOLhyphen"/>riques</hi> a Divine of the <hi>So<g ref="char:EOLhyphen"/>ciety of Jeſus,</hi> out of <hi>Na<g ref="char:EOLhyphen"/>varre, Sylvester,</hi> and <hi>Cordubenſis,</hi> whom hee cites, and followeth. I ſuppoſe it to bee accounted an opinion, not onely pro<g ref="char:EOLhyphen"/>bable, but certain, among Writers, who favour the party of the <hi>(B)</hi> Holy Pope, <hi>(C)</hi> That that Faith is to be received for Catholick (ſo as the oppoſite is hereti<g ref="char:EOLhyphen"/>cal, and they accuſed of Hereſie that defend the ſame) which is delivered as ſuch by the definition of an Oecumenick Council, approved by an undoubted Pope; But when as<note n="b" place="margin">De Locis l. <hi>5.</hi> c. <hi>4.</hi> Concluſ. <hi>3.</hi>
+                     </note> 
+                     <hi>Ca<g ref="char:EOLhyphen"/>nus,</hi>
+                     <note n="c" place="margin">Lib. <hi>4.</hi> De Rom. Pontif. cap. <hi>2.</hi>
+                     </note> 
+                     <hi>Bellarmine, &amp;c.</hi> do every where confeſs; But when as the<note n="d" place="margin">Seſſ. <hi>4.</hi> &amp; <hi>5.</hi>
+                     </note> 
+                     <hi>Council</hi> of <hi>Conſtance,</hi> approved by the<note n="*" place="margin">Seſſ. <hi>16.</hi>
+                     </note> 
+                     <hi>Bull of Martin</hi> 5. and<note n="e" place="margin">Seſſ. <hi>2.</hi>
+                     </note> that of <hi>Baſil</hi>
+                     <pb n="19" facs="tcp:48525:16"/>confirmed for legitimate by the <hi>Bull</hi> of <hi>Eugenius,</hi> determine the Pope to be un<g ref="char:EOLhyphen"/>der an <hi>Oecumenick</hi> Council; it is at leaſt probable that the oppoſite to it is Here<g ref="char:EOLhyphen"/>ſie. <hi>Chronicon Chronicorum,</hi> the work of a learned nameleſs Writer, in the time of <hi>Eugenius</hi> the fourth, and one that fa<g ref="char:EOLhyphen"/>voured him, writes, That <hi>Eugenius,</hi> by Apoſtolick Letters, approved their de<g ref="char:EOLhyphen"/>crees. So likewiſe <hi>Platina</hi> in <hi>Eugenius;</hi> and it is a matter very well known to him that reads the <hi>Bulls. The Univer<g ref="char:EOLhyphen"/>ſity of Paris,</hi> in an appeal againſt <hi>Leo</hi> the tenth, ſaith, That <hi>the condemnation of the Council of Baſil is againſt the Catholick Faith.</hi>
+                     <note n="f" place="margin">T. <hi>2.</hi> Comment. de Geſt. Concil. Ba<g ref="char:EOLhyphen"/>ſil. <hi>9.</hi>
+                     </note> 
+                     <hi>Aeneas Sylvius</hi> reports, <hi>That an Almoner to the King of Arragon, a Biſhop of Eureux,</hi> an Ab<g ref="char:EOLhyphen"/>bot of <hi>Virgiliac,</hi> and a Biſhop of <hi>Lubec,</hi> when they perceived their hour of death to approach, having called many grave men to them, in the very preſence of Chriſts body, which they were preſent<g ref="char:EOLhyphen"/>ly to receive, and before whoſe Tribunal, within few hours, to appear, ſpake thus;
+<pb n="20" facs="tcp:48525:17"/>
+                     <hi>All you who are preſent, pray yee God that hee would convert them who acknowledge Gabriel for the Holy Pope, becauſe in that ſtate they cannot be ſaved; profeſsing in their own behalf, That they died in the Faith of the Council of Baſil. Lewis</hi> Car<g ref="char:EOLhyphen"/>dinal of <hi>Arles,</hi> a man famous for learn<g ref="char:EOLhyphen"/>ing and miracles, calls <hi>Eugenius</hi> a <hi>Deva<g ref="char:EOLhyphen"/>ſtatour of the Church,</hi> and thoſe that ad<g ref="char:EOLhyphen"/>here to him, <hi>men departing from the truth of the Faith.</hi> And on the contrary, hee ſaith, <hi>Thoſe that adhere to the Council of Baſil, will not refuſe to dye for the truth of the Faith, and traditions of the Holy Fa<g ref="char:EOLhyphen"/>thers. Aeneas Sylvius,</hi> in the ſame place, calls the Anti-Synodal ſentence, <hi>The Eugenian Hereſie.</hi> The <hi>Council</hi> of <hi>Piſa,</hi> among theſe in <hi>Bochellus,</hi> calls <hi>Cajetans</hi> little Book, concerning <hi>the Authority of the Pope,</hi> becauſe it is againſt the <hi>Coun<g ref="char:EOLhyphen"/>cils</hi> of <hi>Conſtance, Baſil,</hi> and <hi>Piſa,</hi> and a<g ref="char:EOLhyphen"/>gainſt <hi>John Gerſon,</hi> the beſt defender of the Church, <hi>ſuſpected, and full of inju<g ref="char:EOLhyphen"/>ries;</hi> and <hi>Cajetan</hi> for it, is termed, <hi>a bold and dangerous man.</hi> And the moſt learned man <hi>Vigorius</hi> witneſſeth, That,
+<pb n="21" facs="tcp:48525:17"/>
+                     <hi>in the Pragmatical Sanction of Charls the ſeventh, the Decrees of the Council of Baſil, were received with the conſent of all the Orders of France, the Gallican Church, and Univerſities.</hi>
+                  </p>
+                  <p>Moreover, <hi>Pius</hi> the ſecond, <hi>in Bulla re<g ref="char:EOLhyphen"/>tract.</hi> witneſſeth, <hi>That honour is given to the Council of Baſil, by men almoſt of all Nations;</hi> ſo that <hi>Vigorius</hi> truly related in the cited place, <hi>That it was pronounced by the beſt Lawyers,</hi> whom hee quotes, <hi>an arrogant and ſacrilegious thing, to demur at the things approved by the Council of (D) Conſtance, or the Conciliary authority it ſelf.</hi>
+                  </p>
+                  <p>See the Speech of St. <hi>Robert</hi> of <hi>Lin<g ref="char:EOLhyphen"/>coln,</hi> in <hi>Weſtminſter, Matth. Paris</hi> 1253. <hi>Polychronicon, Fabian,</hi> and <hi>Harpsfield,</hi> who thinks <hi>it would be the greateſt ſort of pertinacy in the holy Pontifies, to compel men, by cenſures and excommunications, to embrace thoſe things which are bad, and which fight againſt faith and good manners.</hi> But the <hi>Bull in Coena</hi> forbidding appeals to General Councils, under pain of ex<g ref="char:EOLhyphen"/>communication, doth in effect forbid
+<pb n="22" facs="tcp:48525:18"/>them to be above the Pope; for, as the Lawyers teach, <hi>It were open iniquity, and againſt the Law of Nature, to prohibit an appeal unto him, who is acknowledged to be Superiour. Hee</hi> therefore <hi>that will ſeem holily to take away Appeals to Councils by cenſures, potentially takes away their Supre<g ref="char:EOLhyphen"/>macy, and higheſt power over the Popes.</hi> Theſe are the words of <hi>Weſtminſter,</hi> re<g ref="char:EOLhyphen"/>lating to the year 1254. under <hi>Henry</hi> the third. Hee grievouſly reproves as well the Friars Preachers, as the Mi<g ref="char:EOLhyphen"/>nours, ſaying, That <hi>therefore their order is constituted in voluntary poverty, that they might more freely rebuke great ones for their errour;</hi> But in that they do not reprehend the ſins of great perſons, hee ſaid, <hi>They were manifeſt Hereticks,</hi> and added, <hi>Hereſie is an opinion choſen by hu<g ref="char:EOLhyphen"/>mane ſenſe, contrary to Holy Scripture, openly taught, obſtinately defended;</hi> But to give cure of ſouls to a little childe, is the opinion of a certain Prelate <hi>choſen by humane ſenſe,</hi> for carnal reaſon, or through raſhneſs, and it is <hi>contrary to Ho<g ref="char:EOLhyphen"/>ly Scripture,</hi> which prohibits Paſtours to
+<pb n="23" facs="tcp:48525:18"/>be made, who are not meet to drive a<g ref="char:EOLhyphen"/>way the Wolves; And it is <hi>openly taught,</hi> becauſe it is manifeſtly carried in ſealed or emboſſed Paper, <hi>Chartâ ſigillatâ vel bullata;</hi> And it is <hi>obstinately defended,</hi> becauſe if any one would contradict it; and doth not contradict it, hee ſinneth, and ſeems to be a favourer of errour; ac<g ref="char:EOLhyphen"/>cording to that of <hi>Gregory. Hee wants not a ſcruple of cloſe co-partnerſhip, who ceaſeth to oppoſe a manifeſt wickedneſs.</hi> Theſe things hee ſpake upon occaſion of the Popes Letters, appointing to have ſome<g ref="char:EOLhyphen"/>what done, which ſeemed unjuſt for a Biſhop of the Church, and diſſo<g ref="char:EOLhyphen"/>nant from reaſon.</p>
+                  <p>The Judgement of <hi>Weſtminſter</hi> con<g ref="char:EOLhyphen"/>cerning <hi>St. Robert,</hi> is of this ſort. <hi>This</hi> Ro<g ref="char:EOLhyphen"/>bert <hi>having a good zeal unto the Lord, and his neighbour, although hee vexed much his Canonicks, and darted lightning ter<g ref="char:EOLhyphen"/>ribly against the Religious of both Sexes; yet I confidently averre, That his vertues have pleaſed God more than his exceſſes have diſpleaſed him, which now is mani<g ref="char:EOLhyphen"/>feſt, by the miracles ſhining forth at his
+<pb n="24" facs="tcp:48525:19"/>tomb. And that although our Lord the Pope being very much moved at deeds and words of that ſort, determined to precipitate him into confuſion, that hee might become an aſtoniſhment, and an Example of trem<g ref="char:EOLhyphen"/>bling to the whole world: yet at length be<g ref="char:EOLhyphen"/>ing mollified by better counſel, permitted him to paſſe away, without taking any no<g ref="char:EOLhyphen"/>tice of it, leſt he might ſeem to raiſe a grea<g ref="char:EOLhyphen"/>ter tumult hereupon.</hi> Thus hee. See the Authors before cited. I think I ſhall do what will bee acceptable to ſuch as are ſtudious of Antiquity, if I here briefly tranſcribe out of my Tractate ſome few things, by which it may appear that the <hi>Britains</hi> and <hi>Scots,</hi> whom wee call <hi>Iriſh,</hi> before the coming of <hi>Auguſtin</hi> into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> were Catholicks, and enjoyed the ſame Priviledges in the <hi>Weſtern</hi> Church, as wherewith the <hi>Cyprians</hi> were honou<g ref="char:EOLhyphen"/>red in the <hi>Eaſtern. Gildas</hi> the <hi>Wiſe</hi> wri<g ref="char:EOLhyphen"/>teth, That <hi>Britain</hi> almoſt from the age of the Apoſtles, had Biſhops, who com<g ref="char:EOLhyphen"/>municated with the reſt of the world in<note n="a" place="margin">Pacificis &amp; for<g ref="char:EOLhyphen"/>matis.</note> Pacifique and formed letters, even
+<pb n="25" facs="tcp:48525:19"/>from the beginning of the Goſpel. <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi> in his Book againſt the <hi>Jews Num.</hi> 43. of <hi>Pamelius</hi>'s Edition, after hee hath reckoned up all the Catholick Churches throughout the world, adds, <hi>And the Britains holds, inacceſsible to the Romans, are ſubdued to the yoak of Chriſt.</hi> And <hi>Pamelius</hi> upon the ſaid place, out of <hi>Bede,</hi> and <hi>Polydore Virgil,</hi> confeſſeth, That <hi>Britain</hi> had publickly received the whole Evangile, not onely in the time of <hi>Mar<g ref="char:EOLhyphen"/>cus Antoninus Verus,</hi> under King <hi>Lucius,</hi> but aſſerts alſo out of<note n="b" place="margin">Lib. de excid. Britan.</note> 
+                     <hi>Gildas,</hi> from the begin<g ref="char:EOLhyphen"/>ning of the Goſpel; Out of <hi>Polydore Virgil,</hi> That the <hi>Britains</hi> had received the Religion of Chriſt, from <hi>Bleſſed Joſeph</hi> of <hi>Arimathea.</hi> See there<g ref="char:EOLhyphen"/>upon<note n="c" place="margin">In Deſenſ. Hiſt. Britan.</note> 
+                     <hi>Bilſius</hi> and<note n="d" place="margin">In <hi>6.</hi> primi ſe<g ref="char:EOLhyphen"/>cul. cap <hi>1.</hi>
+                     </note> 
+                     <hi>Harpſ<g ref="char:EOLhyphen"/>field.</hi> With <hi>Gildas</hi> not onely <hi>Tertullian</hi> giveth ſuffrage, but alſo<note n="e" place="margin">Hom. <hi>4.</hi> in Eze<g ref="char:EOLhyphen"/>chiel.</note> 
+                     <hi>Origen;</hi> yea and<note n="f" place="margin">In ſecunda Apol. contra Arian.</note> St. <hi>Athanaſius</hi> glorieth, That Biſhops paſſed out of <hi>Britain</hi> to the <hi>Council</hi> of <hi>Sardis,</hi> wherein <hi>Atha<g ref="char:EOLhyphen"/>naſius</hi>'s
+<pb n="26" facs="tcp:48525:20"/>abſolution was obtained. And in his Epiſtle to <hi>Jovinian,</hi> then Emperour, which is extant in<note n="g" place="margin">Cap. <hi>42.</hi>
+                     </note> 
+                     <hi>Nice<g ref="char:EOLhyphen"/>phorus Calixtus</hi>'s tenth Book of <hi>Eccleſiaſtical Hiſtory,</hi> he proves, that hee communicates with the Catho<g ref="char:EOLhyphen"/>licks diffuſed through the world, and a<g ref="char:EOLhyphen"/>mong others with the <hi>Spaniſh, Britan<g ref="char:EOLhyphen"/>nick,</hi> and <hi>Gallick</hi> Churches, which, hee ſaith, by common conſent receive the Catholick Faith of <hi>Athanaſius. Hierom</hi> in his 85th. Epiſtle. <hi>Both Gaule and Bri<g ref="char:EOLhyphen"/>tain adore one Chriſt, obſerve one Rule of Truth.</hi> The ſame thing teacheth<note n="a" place="margin">In Orat. contr. Gent.</note> 
+                     <hi>Chryſoſtome;</hi> And that Catholick Biſhops came from <hi>Britain</hi> to the <hi>Coun<g ref="char:EOLhyphen"/>cil</hi> of <hi>Ariminum,</hi> is mani<g ref="char:EOLhyphen"/>feſt out of <hi>Severus Sulpi<g ref="char:EOLhyphen"/>tius, Theodoret,</hi>
+                     <note n="b" place="margin">In Chron.</note> 
+                     <hi>Hierome, Ruffinus, Socrates, Zozo<g ref="char:EOLhyphen"/>men,</hi>
+                     <note n="c" place="margin">In <hi>15.</hi> Primi ſe<g ref="char:EOLhyphen"/>culi.</note> cited by <hi>Harpsfield.</hi> That the <hi>Britannick</hi> Church kept this Communion and unity of Rule with the <hi>Gallicane,</hi> to the coming of St. <hi>Auguſtin</hi> into <hi>England,</hi> and afterward, I have
+<pb n="27" facs="tcp:48525:20"/>proved in a large Tractate concerning <hi>the Primacy of Councils;</hi> and it appears out of the firſt book of the <hi>Hiſtory of the Engliſh Nation,</hi>
+                     <note n="d" place="margin">Cap. <hi>20.</hi> Hiſt. <hi>6</hi> prim. ſec.</note> 
+                     <hi>Harpſ<g ref="char:EOLhyphen"/>field,</hi> and other Engliſh Writers, That the <hi>Gallick</hi> Church ſent into <hi>Britain</hi> St. <hi>German</hi> and <hi>Lupus,</hi> before the coming of <hi>Auguſtin</hi> into <hi>England,</hi> to ſuccour the <hi>Britannick</hi> Church. And<note n="e" place="margin">Lib. <hi>3.</hi> cap. <hi>7.</hi>
+                     </note> 
+                     <hi>Bede</hi> re<g ref="char:EOLhyphen"/>lates, That <hi>Aegilbert</hi> a <hi>Gallick</hi> Biſhop reſided no ſmall time in <hi>Ireland,</hi> being imployed in reading upon the Scripture; Moreover it appears out of<note n="f" place="margin">Hiſt. lib. <hi>4.</hi>
+                     </note> 
+                     <hi>Bede,</hi>
+                     <note n="g" place="margin">Hiſt. <hi>7.</hi> Seculi. cap. <hi>36.</hi>
+                     </note> 
+                     <hi>Harpsfield, Su<g ref="char:EOLhyphen"/>rius,</hi> and others, That <hi>Hilda</hi> the Nunne of <hi>Ca<g ref="char:EOLhyphen"/>lice</hi> was ſent into <hi>England</hi> by <hi>St. Aidan,</hi> and had communicated with the <hi>Britannick</hi> Church. But on the other ſide preſently, when as ſhe lived in the Monaſtery at <hi>Calice,</hi> That <hi>St. Ma<g ref="char:EOLhyphen"/>lo, Brendan, Samſon, Polenſis,</hi> about the year 550. communicated with the <hi>Gal<g ref="char:EOLhyphen"/>lick</hi> and <hi>Aremorick</hi> Churches, more<g ref="char:EOLhyphen"/>over with the <hi>Britannick</hi> and <hi>Iriſh,</hi> as
+<pb n="28" facs="tcp:48525:21"/>appears out of<note n="h" place="margin">
+                        <hi>C.</hi> 26.27. <hi>Hiſt.</hi>
+                     </note> 
+                     <hi>Harpsfield,</hi> among o<g ref="char:EOLhyphen"/>ther things, <hi>Argentraus,</hi> and ſuch like Writers; And that <hi>St. Turſeus</hi> did the ſame, <hi>Ceadde, Fiſlan, Vetan, Euſtathius,</hi> Diſciple of <hi>St. Columban, Diſigod, Fridegund, Cedwall,</hi> King <hi>Oſwald, Wigbert, Fiakre, Willebrod, Columban,</hi> who communica<g ref="char:EOLhyphen"/>ted with both Church, the <hi>Britannick</hi> and <hi>Gallick.</hi> The <hi>Britannick</hi> Church therefore, in the time of <hi>St. Augustin, the Apoſtle,</hi> as they call him, <hi>of England,</hi> was Catholick, and conſequently the <hi>Scotick</hi> or <hi>Iriſh;</hi> for it is evident out of<note n="a" place="margin">L. <hi>2.</hi> c. <hi>4.</hi> Hiſt.</note> 
+                     <hi>Bede,</hi> That the <hi>Iriſh,</hi> whom they call'd <hi>Scots,</hi> lead the like courſe of life and profeſſion; and afterward, <hi>The Scots differed nothing in converſion from the Britains.</hi> Now it appears out of<note n="b" place="margin">L. <hi>1.</hi> Hiſt. c. <hi>7.</hi>
+                     </note> 
+                     <hi>Bede,</hi> in the place laſt cited, and o<g ref="char:EOLhyphen"/>therwiſe, as alſo<note n="c" place="margin">Hiſt. l. <hi>3.</hi>
+                     </note> 
+                     <hi>Henry of Huntington,</hi> That neither <hi>Britains,</hi> nor <hi>Scots, would communicate with the Engliſh, and their Biſhop Augu<g ref="char:EOLhyphen"/>ſtin, more than with Pagans,</hi> as <hi>Hunting<g ref="char:EOLhyphen"/>ton</hi>
+                     <pb n="29" facs="tcp:48525:21"/>ſpeaks; and the reaſon was, becauſe <hi>Auguſtin</hi> ſeemed to deal with them un<g ref="char:EOLhyphen"/>canonically, by conſtraining them to receive him for their Arch-Biſhop, and to ſubmit themſelves to the mandates of Foreigners, when as the ancient man<g ref="char:EOLhyphen"/>ners of their Church required, that they ſhould act all things Synodically among themſelves, as in their Ordina<g ref="char:EOLhyphen"/>tions of Biſhops, ſo in other affairs of the Church; their words out of<note n="d" place="margin">L. <hi>2.</hi> Eccleſ. Hiſt. c. <hi>2.</hi>
+                     </note> 
+                     <hi>Bede,</hi> are, <hi>Becauſe they cannot, without the conſent and licenſe of their</hi> [Clergy ſo aſſem<g ref="char:EOLhyphen"/>bled] <hi>renounce their ancient man<g ref="char:EOLhyphen"/>ners, when as this appears to be againſt the ſixth Nicene Canon, which commands ancient manners to be kept; and the eighth of the Epheſine Council, which will not have the rights of Churches taken away, and if they be taken away, even by what Patriarch ſoever, his fact is declared void; and command is given him, that hee re<g ref="char:EOLhyphen"/>ſtore the Province, which hee hath made his own.</hi> In the mean time what are the manners of the <hi>Britannick</hi> Church, ap<g ref="char:EOLhyphen"/>pears
+<pb n="30" facs="tcp:48525:22"/>out of<note place="margin">c<g ref="char:EOLhyphen"/>
+                        <hi>L.</hi> 3. <hi>c.</hi> 3.</note> 
+                     <hi>Bede. St. Oſwald</hi> the King, an obſerver of the <hi>Scotick</hi> and <hi>Britannick</hi> communion, deſiring to have a Biſhop, by whoſe learning and Miniſtry hee might be ruled, the Engliſh Nation ſent unto the Ancients of the <hi>Scots;</hi> they be<g ref="char:EOLhyphen"/>gin to hold a great Treaty in Council, what ſhould bee done; They decree <hi>Aidan</hi> worthy of the Epiſcopate, and ſo ordaining him, ſend him to preach; Which cuſtome continued a long time in <hi>Ireland,</hi> as appears out of <hi>Sylveſter, Girald,</hi> and the <hi>Topographie</hi> of <hi>Ireland.</hi>
+                     <note n="a" place="margin">Diſt. <hi>3.</hi> c. <hi>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>7.</hi>
+                     </note> In <hi>Ireland</hi> the Biſhops only conſecrated one another to the time of <hi>Eugenius</hi> the 3d. wherein <hi>Pa<g ref="char:EOLhyphen"/>pirio</hi> was ſent Legate to conſtitute Arch-Biſhops there. And both in<note n="b" place="margin">Lib. <hi>3.</hi>
+                     </note> 
+                     <hi>Huntington</hi> and<note n="c" place="margin">L. <hi>2.</hi> Hiſt.</note> 
+                     <hi>Bede,</hi> it is manifeſt, that the <hi>Scots</hi> and <hi>Britains</hi> act all their buſineſſes by common conſent. As evident it is out of <hi>Baronius,</hi> at the year 1089. In the end of that year <hi>Lanfrank,</hi> [Arch-Biſhop] of <hi>Canterbury,</hi> relates in
+<pb n="31" facs="tcp:48525:22"/>an Epiſtle to <hi>Serdalnac,</hi> King of <hi>Ireland,</hi> That the cuſtomes of the Kingdome were, that Biſhops might be conſecrated by one Biſhop; Yea, that the <hi>Britannick</hi> Churches were Catholick, in the Judge<g ref="char:EOLhyphen"/>ment of <hi>Auguſtin</hi> himſelf, with whom they would not communicate, appears out of<note n="d" place="margin">L. <hi>2.</hi> Hiſt. c. <hi>2.</hi>
+                     </note> 
+                     <hi>Bede,</hi> for <hi>Augu<g ref="char:EOLhyphen"/>ſtin</hi> offers the Biſhops of <hi>Britain</hi> his communion, if they would conform themſelves to the <hi>Roman</hi> Church, in the ceremonies of Baptiſm, and obſervation of <hi>Eaſter;</hi> which ſhew, that the <hi>Britains</hi> agree with <hi>Auguſtin</hi> in matters of Faith. About this, by the way, mark a lapſe of <hi>Bede;</hi> for in his Book concerning the ſixth Age, <hi>Anno Mundi</hi> 4585. hee writes, <hi>That the Scots were Quartodecimans;</hi> and yet<note n="e" place="margin">
+                        <hi>L.</hi> 3. <hi>c.</hi> 4.</note> 
+                     <hi>Bede</hi> ſaith, <hi>That they celebrated Eaſter on the Lords day, on which it is manifeſt, Anatolius, Patriarch of Conſtantinople celebrated it,</hi> who is aſ<g ref="char:EOLhyphen"/>ſerted to have delivered to them his uſe. The ancient manners of <hi>Britain</hi> were ab<g ref="char:EOLhyphen"/>rogated more by the force and power of
+<pb n="32" facs="tcp:48525:23"/>the <hi>Engliſh Saxons,</hi> then Synodical con<g ref="char:EOLhyphen"/>ſent; which thoſe moſt holy men, <hi>Col<g ref="char:EOLhyphen"/>man</hi> and his fellows, ſeeing, had rather deſert their Biſhop and Monaſteries, than their ancient manners of living, as<note n="a" place="margin">L. <hi>3.</hi> cap. <hi>16.</hi>
+                     </note> 
+                     <hi>Bede</hi> relates. Since theſe things had been ſo, the three States of <hi>England,</hi> wil<g ref="char:EOLhyphen"/>ling to retrive the ancient Rites of the Kingdome, taken away more by force and power, than by Canon, by conceſſion of the eighth Canon of the <hi>Epheſine Council,</hi> in the 24th. year of <hi>Henry</hi> the eighth,<note n="b" place="margin">Cap. <hi>12.</hi> Statut.</note> decreed, that contro<g ref="char:EOLhyphen"/>verſies ſhould be determined within the limits of the Kingdome, without ap<g ref="char:EOLhyphen"/>peal to Foreiners.</p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="33" facs="tcp:48525:23"/>
+               <head>
+                  <hi>CHAP. 3.</hi> Concerning The Popes Primacy, and Supreme Power of Kings, both in temporals, and alſo Spi<g ref="char:EOLhyphen"/>rituals, as they put on a Temporal re<g ref="char:EOLhyphen"/>ſpect, and are means for the hindring or procuring the ſafety of the Republick.</head>
+               <p>THe <hi>(A)</hi> Holy Fathers give a Pri<g ref="char:EOLhyphen"/>macy to the <hi>Roman</hi> Pontifie; That Primacy (as to Divine Right) confers not upon the Pope more authority over the reſt of the Biſhops, than hath the firſt Preſident of a (B) Parliamentary Court over the reſt of the <hi>(C)</hi> Sena<g ref="char:EOLhyphen"/>tours; And there being a double Ad<g ref="char:EOLhyphen"/>vent of Chriſt into this World; the firſt which he hath paſſed in the habit of a ſervant to miniſter; the ſecond which makes an expectation of him in the form of a Lord and Monarch,<note place="margin">Pſal. 2. Matth. 2.</note> 
+                  <hi>to rule and break in peeces the Nations with a Rod of Iron, and to ſubdue all things unto himſelf;</hi>
+                  <pb n="34" facs="tcp:48525:24"/>it is not without inconvenience, that the Diſciples of Chriſt, who was a Servant, ſhould bee Lords, and placed above their Maſter; And, whereas Chriſt was ſubject to the <hi>(D)</hi> Royal Power, and humbly obeyed it, that the Vicar of Chriſt ſhould exerciſe empire and do<g ref="char:EOLhyphen"/>minion in Temporals over Temporal Lords. Kings have ſupreme power <hi>(E)</hi> immediately from God, and infe<g ref="char:EOLhyphen"/>riour to God alone in Temporals; yet by Temporals I underſtand, not onely thoſe things which are meerly temporal, but alſo <hi>(F)</hi> Spirituals, eſpecially cor<g ref="char:EOLhyphen"/>poreal, ſo far as they are neceſſary to conſerve the quiet of the Temporal Republick, or oppoſe it by ſome neceſ<g ref="char:EOLhyphen"/>ſary impediment; for under that conſi<g ref="char:EOLhyphen"/>deration ſpirituals exceed the limits of Spirituals, and enter into the rank of Temporals; And, according to this ex<g ref="char:EOLhyphen"/>plication, can it be defended in a ſound and Catholick ſenſe, <hi>That Kings are Su<g ref="char:EOLhyphen"/>preme Lords in Spirituals, as they put on a temporal reſpect, no leſs than in Tempo<g ref="char:EOLhyphen"/>rals.</hi>
+               </p>
+               <div type="part">
+                  <pb n="35" facs="tcp:48525:24"/>
+                  <head>Paralipomena.</head>
+                  <p>
+                     <hi>(A) MAtth.</hi> 10.2. <hi>Peter</hi> is called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>the firſt,</hi> and that for ſome ſingular honour, as is obſerved by<note n="*" place="margin">Ep. prima ad Ja<g ref="char:EOLhyphen"/>cob. Dionyſ. Areo<g ref="char:EOLhyphen"/>pag. de Divin. no<g ref="char:EOLhyphen"/>min. c. <hi>3.</hi> Hippolyt. Orat. De conſum. Mundi. Origen. Hom. <hi>5.</hi> in Exod. Hom. <hi>17.</hi> in Luc. In cap. <hi>6.</hi> ad Rom. Petr. Alexandr. Serm. de Poenitent. Euſcb. Caeſar. Hist. l. <hi>2.</hi> c. <hi>13, 14,</hi> Athanaſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ad Felic. Baſil. in c. <hi>2.</hi> Eſal. Orat. <hi>3.</hi> de Peccato. Li. <hi>2.</hi> contr. Eunom. Cyril. Hieroſol. Catech. <hi>2, 11, 14.</hi> Ephraem. Syro in Panopl. Gregor. Nazianz. in Apologet. ad Patr. Gregor. Epiphan. Haer. <hi>51.</hi> Et in Anchorato. Chryſoſt. Orat. <hi>5.</hi> in Jud. Et Orat. in Petr. &amp; Paul. Hom. <hi>23.</hi> in Matth. Item <hi>83.</hi> Et Hom. <hi>87.</hi> in Joan. Et Hom <hi>80.</hi> ad Pop. Antiochen. Et Tom. <hi>9.</hi> de Poenit. Cyril. Alex. l. <hi>2.</hi> in Joan. c. <hi>12.</hi> Et l. <hi>4.</hi> c. <hi>18.</hi> Et l. <hi>10.</hi> c. <hi>41.</hi> Et l. <hi>12.</hi> c. <hi>64.</hi> Et lib. <hi>14.</hi> Theſaur. c. <hi>2.</hi> Iſidor. Pelus. l. <hi>1.</hi> Ep. <hi>142, 235.</hi> L. <hi>2.</hi> Ep. <hi>58, 99.</hi> Sozomen. l. <hi>7.</hi> c. <hi>4.</hi> Theodoret. in c. <hi>1.</hi> ad Gal. Concil. Chalced. Act. <hi>3.</hi> Joan. Damaſc. Orat. de Transfig. Domini. Et Hiſt. Barlaam. c. <hi>11.</hi> Theophyl. in <hi>16.</hi> Matth. In <hi>22.</hi> Luc. <hi>21.</hi> Joan. In Epiſt. ad Gal. c. <hi>1.</hi> Oecumen. in c. <hi>1.</hi> Act. in c. <hi>1.</hi> ad Gal. Euthym. in <hi>16.</hi> Matth. Et <hi>21.</hi> Joan. &amp; <hi>16.</hi> Marc.</note> 
+                     <hi>Clement,</hi> and many o<g ref="char:EOLhyphen"/>ther <hi>Greek</hi> Fathers [cited in the Margin.]</p>
+                  <p>Hee is alſo honoured by all the <hi>La<g ref="char:EOLhyphen"/>tins,</hi> whom, that I bee not too profuſe,
+<pb n="36" facs="tcp:48525:25"/>you may ſee quoted by<note n="a" place="margin">In Theſ. aureo. l. <hi>7.</hi> art. <hi>4.</hi> &amp; <hi>5.</hi>
+                     </note> 
+                     <hi>Iodoc. Coccius,</hi> who alſo ſheweth how both <hi>Greek</hi> and <hi>Latin</hi> Fa<g ref="char:EOLhyphen"/>thers agree, that the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Biſhops have ſuc<g ref="char:EOLhyphen"/>ceeded <hi>Peter,</hi> as<note n="b" place="margin">Epiſt. <hi>165.</hi> Et contr. Lit. Petil. l. <hi>2.</hi> c. <hi>5.</hi>
+                     </note> 
+                     <hi>Augu<g ref="char:EOLhyphen"/>ſtin</hi> expreſly.</p>
+                  <p>
+                     <hi>(B) Vigorius</hi>
+                     <note n="c" place="margin">In Comment. ad Epiſt. Synod. Baſil. ſſ. <hi>4.</hi> num. <hi>1.</hi>
+                     </note> explains moſt learnedly the Pri<g ref="char:EOLhyphen"/>macy of the Holy Pope, in theſe words. <hi>The Primacy was not for this, that the ſucceſſour of St.</hi> Peter <hi>ſhould imperiouſly act all, at his pleaſure; but that hee ſhould be Moderatour and Preſident of the Eccleſiaſtick Council,</hi> that is, <hi>the Cler<g ref="char:EOLhyphen"/>gy,</hi> as ſaith <hi>Cyprian. And in caſes of dif<g ref="char:EOLhyphen"/>ficulty, and great moment, that hee ſhould aſſemble a Council of Biſhops, over whom hee might preſide, as it is in the</hi> 33. <hi>Canon of the Apoſtles. But what things regard the plenitude of Power in the Roman Pon<g ref="char:EOLhyphen"/>tifie, they particularly accrewed to him af<g ref="char:EOLhyphen"/>terward, either from Councils, or uſe and cuſtome, or by the amplitude of the City, or from the Emperours.</hi> The ſame delivers<note n="d" place="margin">De Beneſ. ibid.</note> 
+                     <hi>Duarenus,</hi> and the <hi>Ro<g ref="char:EOLhyphen"/>man</hi>
+                     <pb n="37" facs="tcp:48525:25"/>Law apertly, which<note n="e" place="margin">Cap. Conqueſtus <hi>9.</hi> q. <hi>3.</hi> Et c. <hi>2.</hi> de Offic. Judic. Ord.</note> 
+                     <hi>Vigorius</hi> citeth, <hi>Wee define, That Primates, or Patriarchs, have no pri<g ref="char:EOLhyphen"/>viledge above the reſt of the Biſhops, but ſo much as the Holy Canons grant, and ancient Cu<g ref="char:EOLhyphen"/>ſtome hath of old conferr'd upon them.</hi> And in my Tractate concerning <hi>the Primacy of Councils,</hi> ſhortly to be publiſhed, I have ſhewed at large, That the <hi>Roman</hi> Pontifie, in reſpect of other Biſhops, as Succeſſour of St. <hi>Peter,</hi> by divine right, in regard of his Primacy, hath no actual Juriſdiction more than other Biſhops have, but at the higheſt hath a certain habitual power by the Canons of the Church, to be extended or contracted for the commodity of the Chriſtian Re<g ref="char:EOLhyphen"/>publick.</p>
+                  <p>
+                     <hi>(C)</hi> The Doctors which ſay, That Temporal power belongs not unto the Pope, by divine right, have been moved to aſſert it, for that Chriſt had it not in his firſt Advent. <hi>Withrington</hi> cites almoſt forty of them in his Apology, whom you may there ſee. I will be content
+<pb n="38" facs="tcp:48525:26"/>here to produce the judgement of one<note n="f" place="margin">Aliace<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ. in quaest. de reſumpt.</note> Cardinal [who writes thus.] <hi>If any ſayings of holy men ſeem to intimate, That ſecular Judgements belong to Bi<g ref="char:EOLhyphen"/>ſhops, they ought to be underſtood, not con<g ref="char:EOLhyphen"/>cerning the judgement of coaction, but the judgement of diſcretion; and that this pertains to them not by natural or divine right, but by humane and Poſitive. Chriſt and his Apoſtles would ſubject themſelves humbly to the Laws of Princes, and it ſeems a raſh thing to affirm, that the fore<g ref="char:EOLhyphen"/>ſaid are by divine right. And the Cardinal proves his ſpeech concerning Chriſt, out of</hi> John 19. <hi>where Chriſt confeſſeth, That Pilate had power given by God to judge him.</hi>
+                  </p>
+                  <p>
+                     <note n="a" place="margin">Apologet. c. <hi>21.</hi>
+                     </note>
+                     <hi>Tertullian,</hi> among the reſt, diſtinguiſheth hand<g ref="char:EOLhyphen"/>ſomely this double Advent of Chriſt, where he calleth the firſt an <hi>Advent in humility,</hi> the ſecond, in <hi>ſublimity.</hi> The ſame<note n="b" place="margin">Lib. adverſ. Tuel. cap. <hi>19.</hi> Et lib. <hi>3.</hi> contr. Marcion c. <hi>7.</hi>
+                     </note> Father, other<g ref="char:EOLhyphen"/>where calleth the power, <hi>a Royal Power in the Ad<g ref="char:EOLhyphen"/>vent
+<pb n="39" facs="tcp:48525:26"/>of Christ.</hi> Concerning the Supreme Power of Kings, excellent is the confeſ<g ref="char:EOLhyphen"/>ſion of the Ancient Church in<note n="c" place="margin">Apol. cap. <hi>29.</hi>
+                     </note> 
+                     <hi>Tertul<g ref="char:EOLhyphen"/>lian. Emperours are next to God, the firſt after God; The Emperour is therefore Great, becauſe hee is leſs than Heaven</hi> [that is, onely Heaven] <hi>Thence is the Emperour, whence is the man, before hee is Emperour; thence hath hee power, whence hee likewiſe hath breath.</hi> And chap. 35. <hi>I ſubject the Em<g ref="char:EOLhyphen"/>perour onely to God.</hi> And chap. 34. <hi>Lord under God, or repreſentative of God,</hi> Do<g ref="char:EOLhyphen"/>minus vice Dei. And to <hi>Scapula,</hi> chap. 2. <hi>Hee is man next to God, leſs than onely God, greater than all, while leſs than God alone.</hi> This he.</p>
+                  <p>Concerning this, let the Diſputation at large bee viewed in the Author of the<note n="d" place="margin">
+                        <hi>3.</hi> Par. De Pot. Pontif. pag. <hi>416.</hi> &amp; q. <hi>3.</hi>
+                     </note> 
+                     <hi>Apologie</hi> for <hi>Andrew Dunal,</hi> wherein the Par<g ref="char:EOLhyphen"/>liamentary Cuſtome in <hi>France</hi> is defended a<g ref="char:EOLhyphen"/>gainſt the 25th. Section of the third Canon in the <hi>Council</hi> of <hi>Trent,</hi> accor<g ref="char:EOLhyphen"/>ding to the ſenſe of <hi>Dunallius,</hi> who argues
+<pb n="40" facs="tcp:48525:27"/>out of<note n="e" place="margin">Rom. <hi>13.</hi> &amp; Act. <hi>25.</hi>
+                     </note> 
+                     <hi>Paul</hi> and<note n="f" place="margin">Chryſ. in <hi>13.</hi> Rom.</note> 
+                     <hi>Chryſoſtom.</hi> And the <hi>Gloſs</hi> alſo maintains, <hi>That Clerks, and Monks, are ſubjected to the commands of ſecular Princes, and to be governed by their Laws, ſo far as they pertain to the common ſociety of living in a Kingdome, that most of all cheriſheth peace and tranquillity, which cannot but ob<g ref="char:EOLhyphen"/>lige Clerks, ſo that neceſſarily they ought to obey them, their Clericate notwithſtanding.</hi> And by what right hee ſaith that con<g ref="char:EOLhyphen"/>cerning the Eccleſiaſtick and ſpiritual perſonages of Clerks, hee ought to aver the ſame concerning their corporeal actions, yea their ſacred and ſpiritual. And this Doctrine (as at large is proved in the ſaid Apology) both <hi>Chryſoſtome</hi> and the <hi>Gloſs</hi> aſſert in the cited places. Beſide, the reaſons which are brought by<note n="a" place="margin">L. <hi>5.</hi> De Rom. Pontif.</note> 
+                     <hi>Bellarmin,</hi> out of Scriptures, and Fa<g ref="char:EOLhyphen"/>thers, to prove, <hi>That ſometimes the tem<g ref="char:EOLhyphen"/>poral Power is ſubjected to the Eccleſiaſtick, in order to a ſpiritual end;</hi> prove alſo, <hi>That the Eccleſiaſtick is ſubjected to the
+<pb n="41" facs="tcp:48525:27"/>Temporal, in order to a Temporal end;</hi> as often as it may hinder, or conduce neceſ<g ref="char:EOLhyphen"/>ſarily unto it.<note n="b" place="margin">L. <hi>1.</hi> c. <hi>3.</hi> contr. Parmenian.</note> 
+                     <hi>Auguſtin</hi> alſo expreſly inculcates this Doctrine, and calls them <hi>moſt unskilful peo<g ref="char:EOLhyphen"/>ple,</hi> that contradict it.<note n="c" place="margin">In Tract. de Ju<g ref="char:EOLhyphen"/>riſd. Imperat.</note> 
+                     <hi>Oc<g ref="char:EOLhyphen"/>cam,</hi> in his caſes of Matri<g ref="char:EOLhyphen"/>mony, ſpeaks thus. <hi>To ſay, That Spi<g ref="char:EOLhyphen"/>ritual cauſes no way pertain to a faithful Emperour, is judged erroneous by ſome;</hi> and hee ſaith, <hi>The Spirituals about which pre<g ref="char:EOLhyphen"/>ciſely the Epiſcopal Power is converſant, are the Spirituals which are delivered onely in the Divine Scriptures, and which are no way common to the faithful and unfaithful.</hi> And<note n="d" place="margin">Dialog. cap. <hi>99.</hi>
+                     </note> otherwhere hee ſaith, <hi>It is evident, That they who perturb the peace of the Church ought to bee ſuppreſſed by ſecular Powers.</hi> And herein the<note n="e" place="margin">Cap. <hi>15.</hi> q. <hi>5.</hi> c. Princeps.</note> 
+                     <hi>Gloſs</hi> is of the ſame ſenſe with <hi>Oc<g ref="char:EOLhyphen"/>cam.</hi> The ſame hath<note n="f" place="margin">C. <hi>3.</hi> q. <hi>1.2.</hi> quale.</note> Pope <hi>Pelagius,</hi> And<note n="g" place="margin">P. De poteſt. Pap. c. <hi>14.</hi>
+                     </note> 
+                     <hi>Joan. Pa<g ref="char:EOLhyphen"/>riſiens: When the Pope in Spirituals, as the Simonaick collation of
+<pb n="42" facs="tcp:48525:28"/>Benefices, by evil teaching, &amp;c. ſcandali<g ref="char:EOLhyphen"/>zeth the Church, nor is there any other re<g ref="char:EOLhyphen"/>medy, the Emperour, being required, ought to proceed againſt the Pope.</hi> And the<note n="h" place="margin">Seſſ. <hi>2.</hi>
+                     </note> 
+                     <hi>Council</hi> of <hi>Baſil</hi> yeelds a juriſdiction of puniſhing con<g ref="char:EOLhyphen"/>temners of the Canons by the ſecular Magiſtrate.<note n="i" place="margin">Par. <hi>3.</hi> q. <hi>3.</hi> De Pot. Pap.</note> 
+                     <hi>Dunallius</hi> ſaith, <hi>That it is offenſive unto Kings, to ſay, A Clerk that is a Parricide, Sorcerer, Traitour, one that lyeth in wait for the life of his Prince, cannot be puniſhed by a ſecular Judge. And theſe things are not to be maintained in France.</hi> The <hi>Gloſs</hi> on <hi>Rom.</hi> 13. citeth <hi>Hierome</hi> upon <hi>Jeremiah.</hi>
+                     <note n="k" place="margin">Vid. Rhemens. de Pot. Reg. cap. <hi>7.</hi>
+                     </note> 
+                     <note n="l" place="margin">In <hi>9.</hi> Abuſ.</note> 
+                     <hi>Cyprian</hi> ſaith, <hi>That Princes ought to defend their Churches, even againſt the abuſes of Prelates. Pope Sylveſter the fifth teacheth it, after Innocentius.</hi> And<note n="m" place="margin">Lib <hi>2.</hi> de Con<g ref="char:EOLhyphen"/>cil. cap. <hi>19.</hi> &amp; ult. Paludan. Tract. de Pot. Pap. Turrecremat. l. <hi>3.</hi> de Eccleſ. <hi>106.</hi> Jacobat. l. <hi>8.</hi> A <hi>3.</hi> n. <hi>6</hi> Hoſtienſ. &amp; Antonin. quos citat. D<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>al. par. <hi>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, 9, 11.</hi> p. <hi>8, 5.</hi> Cajetan. opuſc. de Pap &amp; concil c. <hi>2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi> Symmach. de Haeret c. <hi>3.</hi> ſſ. <hi>3.</hi> Et c. <hi>44.</hi> ſſ. <hi>31.</hi> Panormitan. in c. ſicut debuit jurando.</note> 
+                     <hi>Bellarmin. The Pope de<g ref="char:EOLhyphen"/>ſtroying
+<pb n="43" facs="tcp:48525:28"/>the Church, may be reſiſted by force and arms.</hi> And <hi>Sayr</hi> the ſame in <hi>Theſaur. l.</hi> 12. <hi>cap.</hi> 8. <hi>n.</hi> 8. <hi>Joan. Pariſiens. l. ci<g ref="char:EOLhyphen"/>tat. cap.</hi> 14. <hi>Eccleſiaſticks, that are incor<g ref="char:EOLhyphen"/>rigibly delinquent in ſpirituals, may be cor<g ref="char:EOLhyphen"/>rected by calling the ſecular arm in aſsi<g ref="char:EOLhyphen"/>ſtance unto the Law; which,</hi> hee ſaith, <hi>Chiefly takes place in France;</hi> the reaſon is this. The act of ſin belongs to the vice that commands it; if therefore <hi>Trea<g ref="char:EOLhyphen"/>ſon</hi> commands a <hi>ſpiritual</hi> act, as, for in<g ref="char:EOLhyphen"/>ſtance, the adminiſtration of <hi>Sacraments,</hi> the ſaid adminiſtration will belong to <hi>Treaſon,</hi> and put on a temporal reſpect or guiſe, as it happened <hi>Anno</hi> 1034. in a <hi>Prieſt,</hi> who, by giving the communion, killed <hi>Henry</hi> the ſeventh, the <hi>Emperour;</hi> as it is in <hi>Genebrard</hi> and <hi>Cario.</hi> That ad<g ref="char:EOLhyphen"/>miniſtration, commanded by that crime, as ſuch, is a temporal thing, and cor<g ref="char:EOLhyphen"/>rigible by the <hi>Civil Magiſtrate.</hi> And ſo holds <hi>Widrington. Apol. num.</hi> 154, 156. where hee will have the preach<g ref="char:EOLhyphen"/>ing of the <hi>Goſpel,</hi> for ſo much as it wickedly troubles the Common wealth, capable of being puniſhed by the <hi>Se<g ref="char:EOLhyphen"/>cular
+<pb n="44" facs="tcp:48525:29"/>Judge.</hi>
+                     <note n="a" place="margin">3. <hi>par. q.</hi> 3. <hi>p.</hi> 393.</note> 
+                     <hi>Dunallius,</hi> out of<note n="b" place="margin">Cap. <hi>27.</hi> Enchir. n. <hi>70.</hi> Covar. ruv. in pract. q. <hi>9.</hi> c. <hi>31.</hi> Citat. Jo<g ref="char:EOLhyphen"/>han. Fabrum, Au<g ref="char:EOLhyphen"/>frecium, Guiel. Benedict. Tirra<g ref="char:EOLhyphen"/>quel. Videatur Bo<g ref="char:EOLhyphen"/>chellus. l. <hi>2.</hi> decr. Eccleſ. Gallic. Tit. <hi>15.</hi> cap. <hi>146.</hi>
+                     </note> 
+                     <hi>Navarre,</hi> ſaies, <hi>That the cuſtome of France, to take cognizance of Eccle<g ref="char:EOLhyphen"/>ſiaſtick cauſes by ſeculars, hath been time out of mind.</hi> See the<note n="c" place="margin">Lib. <hi>5.</hi> cap. <hi>42.</hi> p. <hi>122.</hi> Edit. Paris.</note> 
+                     <hi>Capitular</hi> of <hi>Charlemaigne;</hi> where the <hi>Kings Judges</hi> puniſh <hi>Bi<g ref="char:EOLhyphen"/>ſhops</hi> and <hi>Prieſts.</hi>
+                     <note n="d" place="margin">In Somnio. c. <hi>36.</hi>
+                     </note> 
+                     <hi>Philo<g ref="char:EOLhyphen"/>theus Achillinus</hi> ſaith, <hi>Kings, ſo they be abſolute, enjoy the priviledges and right of Emperours in their Kingdomes;</hi> But it appears out of<note n="e" place="margin">In Can. <hi>38.14.</hi> Synodi.</note> 
+                     <hi>Balſamon,</hi> That <hi>Emperours</hi> in time paſt could <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>make Biſho<g ref="char:EOLhyphen"/>pricks anew,</hi> and exerciſe whatſoever <hi>Eccleſiaſtick Oeconomie, as ſeemed them good,</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Alſo upon the ſe<g ref="char:EOLhyphen"/>venteenth Can. of the <hi>Council of Chal<g ref="char:EOLhyphen"/>cedon,</hi> and the ſixteenth of the <hi>Council of Carthage.</hi> The <hi>Kings</hi> therefore have preſcribed authority in <hi>Spirituals</hi> by conceſſion of the <hi>Church,</hi> confirming
+<pb n="45" facs="tcp:48525:29"/>theſe ancient pacifick uſes. See <hi>Juſti<g ref="char:EOLhyphen"/>nians Code,</hi> where are <hi>Imperial Laws</hi> concerning the <hi>Catholick Faith,</hi> the ho<g ref="char:EOLhyphen"/>ly <hi>Churches,</hi> and their priviledges; con<g ref="char:EOLhyphen"/>cerning <hi>Biſhops, Clerks, Hoſpitals</hi> for <hi>Orphans, Monks,</hi> Places for <hi>Aſcetick Diſcipline, and their Priviledges;</hi>
+                     <note n="f" place="margin">Lib. <hi>4.</hi> Cod. de Cauſis matrimoni<g ref="char:EOLhyphen"/>alibus, ex <hi>14.</hi> Tit. Nomocanonis Pho<g ref="char:EOLhyphen"/>tii.</note> not a Book of which but a<g ref="char:EOLhyphen"/>bounds with <hi>Imperial Laws</hi> concerning <hi>Sacred</hi> things. While the <hi>Bi<g ref="char:EOLhyphen"/>ſhops</hi> of the ſecond <hi>Sy<g ref="char:EOLhyphen"/>nod</hi> were called to <hi>Rome,</hi>
+                     <note n="a" place="margin">Sozom. cap. <hi>12.</hi> lib. <hi>7.</hi> Niceph. lib. <hi>12.</hi> c. <hi>15.</hi> Theodo<g ref="char:EOLhyphen"/>ret. lib. <hi>4.</hi> c. <hi>8, 9.</hi>
+                     </note> 
+                     <hi>Theodoſius</hi> ſummons them to <hi>Conſtantinople.</hi> In <hi>France,</hi> from the be<g ref="char:EOLhyphen"/>ginning of <hi>Christianity</hi> received there, the <hi>Kings</hi> took cognizance of <hi>Spi<g ref="char:EOLhyphen"/>ritual</hi> cauſes, as appears out of the firſt<note n="b" place="margin">Et in Praefat. Et Lib. <hi>2.</hi> Concil. Can. <hi>2.8.</hi> Et lib. <hi>3.</hi> Can. <hi>11, 13, 14, 22, 23, 24, 26.</hi>
+                     </note> 
+                     <hi>Council of Orleans,</hi> under <hi>Clodo<g ref="char:EOLhyphen"/>veus, cap.</hi> 1. <hi>&amp;</hi> 2. and the ſecond <hi>Council of Orleans</hi> under <hi>Childebert, cap.</hi> 1, 5, 9, 23. the fourth <hi>Council of Arles,</hi> in Prolog. under <hi>Charlemaigne</hi>
+                     <pb n="46" facs="tcp:48525:30"/>the third of <hi>Toures,</hi> the firſt of <hi>Mentz</hi> in <hi>Praefat.</hi> that of <hi>Rhemes under Charle maigne, in Praefat.</hi> 51. the third of <hi>Ca<g ref="char:EOLhyphen"/>valeon, in Praefat.</hi> the firſt of <hi>Aix,</hi> or <hi>Aquiſgrane,</hi> under <hi>Ludovicus Pius,</hi> and <hi>Lotharius,</hi> in their Epiſtles, &amp;c. <hi>Flodoar<g ref="char:EOLhyphen"/>dus</hi> in the life of <hi>Hincmarus, l.</hi> 3. <hi>c.</hi> 1. writes, That <hi>Charles the Bald called a Sy<g ref="char:EOLhyphen"/>nod at Beauvois concerning the affairs of the Church of Rhemes.</hi>
+                     <note n="c" place="margin">Idem Binius Tom. <hi>3.</hi> Concil. pag. <hi>344.</hi> Concilio Mel<g ref="char:EOLhyphen"/>deaſi cap. <hi>78, 79.</hi> Exempla Synodales Carolis Ealvi in Concilio Cariſſiaco, Concil. Piſteus. <hi>863.</hi> cap. <hi>1.</hi> Wormacti<g ref="char:EOLhyphen"/>cas in init. Tribu<g ref="char:EOLhyphen"/>neus: ſub Arnuſ<g ref="char:EOLhyphen"/>pho Impri. Ep. Sy<g ref="char:EOLhyphen"/>nodali Aurelian. ſub Rober<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o <hi>1017.</hi> Stampenſ Tempore ſancti Bernardi i<g ref="char:EOLhyphen"/>dem docent.</note> Whence appears, That the <hi>Kings</hi> of <hi>France</hi> acted in <hi>ſpiritual</hi> things, accor<g ref="char:EOLhyphen"/>ding to the manner afore<g ref="char:EOLhyphen"/>ſaid. Which <hi>Authority</hi> of theirs, and preſcribed <hi>Cu<g ref="char:EOLhyphen"/>ſtome,</hi> hath been tranſla<g ref="char:EOLhyphen"/>ted to the <hi>Court</hi> of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> which began to bee ſteady or ſtanding under <hi>Lewis</hi> the tenth, as <hi>Gaguin. l.</hi> 4. <hi>Nicol. Aegid.</hi> in <hi>Hulmar. Genebrard.</hi> in <hi>Chron. l.</hi> 3. <hi>Anno</hi> 758. witneſs. The <hi>Parliament</hi> alwaies obſerved for invio<g ref="char:EOLhyphen"/>able Law the <hi>Capitularies</hi> of <hi>Charle<g ref="char:EOLhyphen"/>maigne;</hi>
+                     <pb n="47" facs="tcp:48525:30"/>in the ſecond of which it is thus ordained; <hi>Among Eccleſiaſticks, if a cauſe ariſe which belongeth either to the diſhonour of the Kingdome, or the common dammage, permit it not long to bee concealed from us; Wee ought to correct all theſe things; and whatſoever is in theſe things, which pertain to the peace and juſtice of our whole people, and to the honour of our Kingdome, and to the common utility.</hi> The <hi>Ritual</hi> of the <hi>Conſecration</hi> of the <hi>Kings</hi> of <hi>France,</hi> in <hi>Bochellus,</hi>
+                     <note n="d" place="margin">Lib. <hi>5.</hi> Decret. Tit. <hi>2.</hi>
+                     </note> renders the <hi>Kings Oath</hi> to bee, <hi>To keep and defend the Canonical priviledge, Law, and Juſtice, due unto the Churches;</hi> The <hi>King</hi> is called, by the <hi>Arch-Biſhop</hi> crowning him, <hi>a partaker of his Miniſtery. Conſtantine</hi> excellently in <hi>Euſebius;</hi>
+                     <note n="e" place="margin">L. <hi>4.</hi> cap. <hi>14.</hi>
+                     </note> 
+                     <hi>you are Biſhops of what's within, and I of all without;</hi> Cauſ. 20 q. 5. <hi>Secular Princes have the pinnacles of their power within the Church.</hi> I will conclude out of <hi>Pariſienſis,</hi> a moſt ſolid Divine,<note n="f" place="margin">Tract. de Poteſta<g ref="char:EOLhyphen"/>te Papae, cap. <hi>21.</hi>
+                     </note> 
+                     <hi>That the ſpiri<g ref="char:EOLhyphen"/>tual Right of Collation, &amp;c.
+<pb n="48" facs="tcp:48525:31"/>may appertain to a Laike by Cuſtome; but,</hi> hee ſaith, <hi>That a ſpiritual is twofold one by cauſality, whereby a ſpiritual grace is cauſed: the other by concomitance, and that by conſequence, or antecedence: Now,</hi> ſaith hee, <hi>neither the firſt ſpiritual, as the ad<g ref="char:EOLhyphen"/>miniſtration of Sacraments, nor the right that follows upon it, can appertain to a Laike, but the antecedent right may well, annexed to ſpiritual offices, as Praeſenta<g ref="char:EOLhyphen"/>tion, Collation, eſpecially by conceſsion of the Church, and by long Cuſtome preſcri<g ref="char:EOLhyphen"/>bed.</hi> The <hi>King</hi> may acquire this right unto <hi>Himſelf,</hi> becauſe this is not repug<g ref="char:EOLhyphen"/>nant to <hi>Him.</hi> And here let mee end.</p>
+               </div>
+            </div>
+            <closer>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </closer>
+            <pb facs="tcp:48525:31"/>
+         </div>
+      </body>
+   </text>
+</TEI>
